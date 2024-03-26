@@ -1,0 +1,27 @@
+{
+  "positions" : [ {
+    "id" : "/start",
+    "x" : 290,
+    "y" : 673
+  }, {
+    "id" : "/hello",
+    "x" : 290,
+    "y" : 1147
+  }, {
+    "id" : "/bye",
+    "x" : 290,
+    "y" : 1600
+  }, {
+    "id" : "/NoMatch",
+    "x" : 290,
+    "y" : 2012
+  }, {
+    "id" : "/weather/weather",
+    "x" : 290,
+    "y" : 2456
+  }, {
+    "id" : "/currency/currency",
+    "x" : 290,
+    "y" : 2813
+  } ]
+}
