@@ -6,7 +6,7 @@ theme: /
         q!: $regex</start>
         a: Начнём.
 
-    state: Hello
+    state: hello
         intent!: /привет
         random:
             a: Привет! 
@@ -16,7 +16,7 @@ theme: /
         intent!: /пока
         a: Пока пока
 
-    state: /NoMatch
+    state: NoMatch
         event!: noMatch
         a: Я не понял. Вы сказали
         
